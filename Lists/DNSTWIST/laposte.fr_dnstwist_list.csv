@@ -268,11 +268,10 @@ insertion,lapost5e.fr,,,,
 insertion,lapost6e.fr,,,,
 insertion,lapostfe.fr,,,,
 insertion,lapostge.fr,,,,
-insertion,laposwte.fr,,,,
-insertion,lapposte.fr,170.39.226.155,!ServFail,mail.parktons.com,ns1.radinko.com
 insertion,lapostre.fr,199.59.243.226,,,ns1.bodis.com
 insertion,lapostye.fr,,,,
 insertion,lapostze.fr,,,,
+insertion,laposwte.fr,,,,
 insertion,laposxte.fr,,,,
 insertion,laposyte.fr,,,,
 insertion,laposzte.fr,,,,
@@ -280,6 +279,7 @@ insertion,lapowste.fr,,,,
 insertion,lapoxste.fr,,,,
 insertion,lapoyste.fr,,,,
 insertion,lapozste.fr,,,,
+insertion,lapposte.fr,170.39.226.155,!ServFail,mail.parktons.com,ns1.radinko.com
 insertion,laqposte.fr,,,,
 insertion,lasposte.fr,,,,
 insertion,lawposte.fr,,,,
@@ -351,7 +351,7 @@ subdomain,la.poste.fr,94.143.220.204,,,
 subdomain,lapo.ste.fr,94.143.220.218,,,
 subdomain,lapos.te.fr,94.143.220.218,,mx3.mail.ovh.net,dns20.ovh.net
 transposition,alposte.fr,,,,
-transposition,laopste.fr,,,,
+transposition,laopste.fr,,,mx1.forwardemail.net,chris.ns.cloudflare.com
 transposition,laposet.fr,,,,
 transposition,lapotse.fr,,,,
 transposition,lapsote.fr,,,,ns1.dns-parking.com
