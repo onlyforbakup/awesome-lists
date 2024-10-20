@@ -63,15 +63,15 @@ bitsquatting,laroste.fr,,,,
 bitsquatting,latoste.fr,,,,
 bitsquatting,laxoste.fr,,,,
 bitsquatting,lcposte.fr,,,,
-bitsquatting,liposte.fr,,,,
-bitsquatting,lqposte.fr,,,,
 bitsquatting,maposte.fr,104.247.81.50,,mail.h-email.net,ns1.parkingcrew.net
 bitsquatting,leposte.fr,91.195.240.92,,mx186.m2bp.com,ns1.dovendi.nl
+bitsquatting,liposte.fr,,,,
+bitsquatting,lqposte.fr,,,,
 bitsquatting,naposte.fr,,,,
 cyrillic,xn--80ak0ahl7io2b.fr,,,,
 homoglyph,1ap0ste.fr,,,,
 homoglyph,1apostc.fr,,,,
-homoglyph,1aposte.fr,217.160.0.91,2001:8d8:100f:f000::200,mx00.ionos.de,ns1020.ui-dns.biz
+homoglyph,1aposte.fr,,,,
 homoglyph,iap0ste.fr,,,,
 homoglyph,iapostc.fr,,,,
 homoglyph,iaposte.fr,213.186.33.5,,mx3.mail.ovh.net,dns109.ovh.net
@@ -268,6 +268,7 @@ insertion,lapost5e.fr,,,,
 insertion,lapost6e.fr,,,,
 insertion,lapostfe.fr,,,,
 insertion,lapostge.fr,,,,
+insertion,lapposte.fr,170.39.226.155,!ServFail,mail.parktons.com,ns1.radinko.com
 insertion,lapostre.fr,199.59.243.227,,,ns1.bodis.com
 insertion,lapostye.fr,,,,
 insertion,lapostze.fr,,,,
@@ -279,7 +280,6 @@ insertion,lapowste.fr,,,,
 insertion,lapoxste.fr,,,,
 insertion,lapoyste.fr,,,,
 insertion,lapozste.fr,,,,
-insertion,lapposte.fr,170.39.226.155,!ServFail,mail.parktons.com,ns1.radinko.com
 insertion,laqposte.fr,,,,
 insertion,lasposte.fr,,,,
 insertion,lawposte.fr,,,,
